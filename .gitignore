@@ -42,6 +42,7 @@ $RECYCLE.BIN/
 *.lnk
 bulls_and_cows.pdf
 Game_research.txt
+Mastermind-Copy1.ipynb
 
 
 # End of https://www.gitignore.io/api/windows,jupyternotebooks

@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
+# Master Mind
 *[Minerva Liste]*
 
 *[DALF, IronHack BCN & 17/01/2020]*
